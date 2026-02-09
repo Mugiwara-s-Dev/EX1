@@ -2,9 +2,23 @@
 
 MugiDevORG
 Logo:
-Descripción:
-  MugiDev es una empresa de desarrollo que nace del valor de la unión y el trabajo en equipo. Inspirados en los Mugiwara, creemos que los mejores proyectos se construyen cuando cada integrante aporta su talento para un objetivo común. Creamos soluciones digitales sólidas,    colaborativas y pensadas para crecer junto a nuestros clientes.
 
-Propuesta 1:
-  Plataforma web que con ayuda de IA escanee la cabeza del cliente y en base a esta que pueda cambiar 
-  a gusto su corte de cabello ya sea mediante prompt o mediante fusión de imagenes
+Description:
+MugiDev is a development company born from the value of unity and teamwork. Inspired by the Mugiwara crew, 
+we believe the best projects are built when each member contributes their talent toward a common goal. 
+We create solid, collaborative digital solutions designed to grow alongside our clients.
+
+Proposal 1:
+A web platform that uses AI to scan the client’s head and, based on this, allows them to customize and change 
+their hairstyle to their liking, either through prompts or by merging images.
+
+Proposal 2:
+A web page with an interactive map that allows users to search for specific items, especially those that are 
+difficult to find, and see which stores in the city have them available. When a search is performed, the system 
+shows nearby stores that carry the product, their exact location, and the easiest route to get there, 
+saving users time and directly connecting them with local businesses.
+
+Proposal 3:
+It is a hair salon that integrates an intelligent software system for appointment scheduling and time management, 
+allowing clients to book services online based on real availability, while enabling the business to organize shifts, 
+manage schedules, prevent overlapping appointments, and optimize staff workflow, improving both operational efficiency and customer experience.
