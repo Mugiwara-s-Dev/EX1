@@ -2,7 +2,7 @@
 
 MugiDevORG
 Logo:
-
+<img width="1024" height="1024" alt="ChatGPT Image 9 feb 2026, 12_10_15 p m" src="https://github.com/user-attachments/assets/b369018c-1017-427f-9ee4-66f1761bd882" />
 Description:
 MugiDev is a development company born from the value of unity and teamwork. Inspired by the Mugiwara crew, 
 we believe the best projects are built when each member contributes their talent toward a common goal. 
